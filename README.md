@@ -15,6 +15,9 @@ Turning raw data into insight, and insight into deployed, working products.
   <a href="https://huggingface.co/Hemarshini">
     <img src="https://img.shields.io/badge/HuggingFace-Spaces-yellow?style=flat&logo=huggingface" />
   </a>
+  <a href="https://hemarshini.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat" />
+  </a>
 </p>
 
 ---
