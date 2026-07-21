@@ -93,16 +93,7 @@ End-to-end phishing classifier comparing Logistic Regression vs. Random Forest �
 - **Red Hat System Administration I (RH124)** — Red Hat Academy
 - **Data Visualisation: Empowering Business with Effective Insights** — Tata Forage
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hemarshini&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemarshini&layout=compact&hide_border=true" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
