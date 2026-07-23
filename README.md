@@ -9,7 +9,7 @@ Turning raw data into insight, and insight into deployed, working products.
   <a href="https://www.linkedin.com/in/divvelahemarshini">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:divvelahemarshini@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
   <a href="https://huggingface.co/Hemarshini">
@@ -52,7 +52,7 @@ I'm currently looking for full-time opportunities as an **AI/ML Engineer, Genera
 `MongoDB` `SQL` `Aggregation Pipelines` `Data Modeling`
 
 **Deployment & Tools**
-`Flask` `Flask-SocketIO` `Streamlit` `Gradio` `Hugging Face Spaces` `Docker` `CI/CD (GitHub Actions)` `Git/GitHub`
+`Flask` `Flask-SocketIO` `Streamlit` `Gradio` `Hugging Face Spaces` `Git/GitHub`
 
 **Automation**
 `UiPath (RPA)`
@@ -64,16 +64,12 @@ I'm currently looking for full-time opportunities as an **AI/ML Engineer, Genera
 Each project below started with data exploration and cleaning before any model was built — the same analytical process behind a good dashboard or report is what makes the modeling and deployment work reliable later.
 
 #### 🛡️ [Phishing Email Detection using NLP & ML](https://github.com/Hemarshini/Phishing-Email-Detection-using-NLP-and-Machine-Learning)
-[![CI](https://github.com/Hemarshini/Phishing-Email-Detection-using-NLP-and-Machine-Learning/actions/workflows/ci.yml/badge.svg)](https://github.com/Hemarshini/Phishing-Email-Detection-using-NLP-and-Machine-Learning/actions/workflows/ci.yml)
-
-End-to-end phishing classifier comparing Logistic Regression vs. Random Forest — optimized for **false-positive rate**, not just accuracy, since a false positive in a spam filter breaks user trust faster than a missed detection. Added a rule-based URL heuristic layer to catch phishing emails that use calm, professional wording with no lexical red flags. Containerized with Docker; CI automatically runs model-validation tests before any build is allowed to pass.
+End-to-end phishing classifier comparing Logistic Regression vs. Random Forest — optimized for **false-positive rate**, not just accuracy, since a false positive in a spam filter breaks user trust faster than a missed detection. Added a rule-based URL heuristic layer to catch phishing emails that use calm, professional wording with no lexical red flags.
 **97.2% accuracy · 56% fewer false positives than baseline · Deployed on Hugging Face Spaces**
 🔗 [Live Demo](https://huggingface.co/spaces/Hemarshini/phishing-email-detector)
 
 #### 🩺 [AI-Powered Healthcare Chatbot (RAG)](https://github.com/Hemarshini/AI-Powered-Healthcare-Chatbot)
-[![CI](https://github.com/Hemarshini/AI-Powered-Healthcare-Chatbot/actions/workflows/ci.yml/badge.svg)](https://github.com/Hemarshini/AI-Powered-Healthcare-Chatbot/actions/workflows/ci.yml)
-
-Retrieval-Augmented Generation chatbot grounded entirely in a curated 129-entry medical knowledge base — built specifically to avoid LLM hallucination in a healthcare context. Features a two-tier domain check that distinguishes "off-topic" from "legitimate but uncovered" questions, with thresholds tuned empirically rather than guessed. Containerized with Docker; CI validates the retrieval layer — embeddings and FAISS index — on every commit.
+Retrieval-Augmented Generation chatbot grounded entirely in a curated 129-entry medical knowledge base — built specifically to avoid LLM hallucination in a healthcare context. Features a two-tier domain check that distinguishes "off-topic" from "legitimate but uncovered" questions, with thresholds tuned empirically rather than guessed.
 **Perfect precision/recall on a 41-query labeled test set · Dual-LLM backend (Llama 3.2 / TinyLlama) · Deployed on free CPU tier**
 🔗 [Live Demo](https://huggingface.co/spaces/Hemarshini/healthcare-chatbot-rag)
 
@@ -86,12 +82,21 @@ Multi-modal Flask application that evaluates mock interviews across NLP answer q
 ### 📜 Certifications
 
 - **Getting Started with Artificial Intelligence** — IBM SkillsBuild ([verify](https://www.credly.com/badges/ca7b518a-bd74-4250-b590-319019dbf9bb))
-- **Introduction to Generative AI** — Simplilearn SkillUp, in partnership with Google Cloud
+- **Introduction to Generative AI**
 - **Machine Learning Onramp** & **Deep Learning Onramp** — MathWorks
 - **MongoDB**: Introduction, CRUD Operations, Aggregation, Indexes, Data Modeling, Transactions, Atlas Search
 - **Automation Developer Associate Training (v2024.10)** — UiPath Academic Alliance
 - **Red Hat System Administration I (RH124)** — Red Hat Academy
 - **Data Visualisation: Empowering Business with Effective Insights** — Tata Forage
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hemarshini&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemarshini&layout=compact&hide_border=true" />
+</p>
 
 ---
 
