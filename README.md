@@ -6,6 +6,9 @@ Turning raw data into insight, and insight into deployed, working products.
 </p>
 
 <p align="center">
+  <a href="https://hemarshini.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-CBA967?style=flat&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/divvelahemarshini">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
@@ -63,19 +66,20 @@ I'm currently looking for full-time opportunities as an **AI/ML Engineer, Genera
 
 Each project below started with data exploration and cleaning before any model was built — the same analytical process behind a good dashboard or report is what makes the modeling and deployment work reliable later.
 
-#### 🛡️ [Phishing Email Detection using NLP & ML](https://github.com/Hemarshini/Phishing-Email-Detection-using-NLP-and-Machine-Learning)
-End-to-end phishing classifier comparing Logistic Regression vs. Random Forest — optimized for **false-positive rate**, not just accuracy, since a false positive in a spam filter breaks user trust faster than a missed detection. Added a rule-based URL heuristic layer to catch phishing emails that use calm, professional wording with no lexical red flags.
-**97.2% accuracy · 56% fewer false positives than baseline · Deployed on Hugging Face Spaces**
-🔗 [Live Demo](https://huggingface.co/spaces/Hemarshini/phishing-email-detector)
+#### 🎤 [AI Interview Preparation & Confidence Analysis System](https://github.com/Hemarshini/AI-Interview-Preparation-Confidence-Analysis-System)
+Multi-modal Flask application that evaluates mock interviews across NLP answer quality, speech delivery, and real-time facial emotion — fused into a single weighted confidence score with adaptive follow-up questions. Runs three concurrent processes (speech capture, emotion tracking, WebSocket updates) without blocking request handling.
+**19 performance metrics logged per session · 5-level adaptive follow-up engine · Documented architecture tradeoffs**
+🔗 [Demo Video](https://vimeo.com/1210984282)
 
 #### 🩺 [AI-Powered Healthcare Chatbot (RAG)](https://github.com/Hemarshini/AI-Powered-Healthcare-Chatbot)
 Retrieval-Augmented Generation chatbot grounded entirely in a curated 129-entry medical knowledge base — built specifically to avoid LLM hallucination in a healthcare context. Features a two-tier domain check that distinguishes "off-topic" from "legitimate but uncovered" questions, with thresholds tuned empirically rather than guessed.
 **Perfect precision/recall on a 41-query labeled test set · Dual-LLM backend (Llama 3.2 / TinyLlama) · Deployed on free CPU tier**
 🔗 [Live Demo](https://huggingface.co/spaces/Hemarshini/healthcare-chatbot-rag)
 
-#### 🎤 [AI Interview Preparation & Confidence Analysis System](https://github.com/Hemarshini/AI-Interview-Preparation-Confidence-Analysis-System)
-Multi-modal Flask application that evaluates mock interviews across NLP answer quality, speech delivery, and real-time facial emotion — fused into a single weighted confidence score with adaptive follow-up questions. Runs three concurrent processes (speech capture, emotion tracking, WebSocket updates) without blocking request handling.
-**19 performance metrics logged per session · 5-level adaptive follow-up engine · Documented architecture tradeoffs**
+#### 🛡️ [Phishing Email Detection using NLP & ML](https://github.com/Hemarshini/Phishing-Email-Detection-using-NLP-and-Machine-Learning)
+End-to-end phishing classifier comparing Logistic Regression vs. Random Forest — optimized for **false-positive rate**, not just accuracy, since a false positive in a spam filter breaks user trust faster than a missed detection. Added a rule-based URL heuristic layer to catch phishing emails that use calm, professional wording with no lexical red flags.
+**97.2% accuracy · 56% fewer false positives than baseline · Deployed on Hugging Face Spaces**
+🔗 [Live Demo](https://huggingface.co/spaces/Hemarshini/phishing-email-detector)
 
 ---
 
@@ -105,7 +109,8 @@ Multi-modal Flask application that evaluates mock interviews across NLP answer q
 I'm always happy to talk about RAG architecture, model evaluation tradeoffs, deployment decisions, or anything in between.
 
 <p align="center">
+  <a href="https://hemarshini.github.io/portfolio">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/divvelahemarshini">LinkedIn</a> ·
-  <a href="mailto:youremail@example.com">Email</a> ·
+  <a href="mailto:divvelahemarshini@gmail.com">Email</a> ·
   <a href="https://huggingface.co/Hemarshini">Hugging Face</a>
 </p>
