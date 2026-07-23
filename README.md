@@ -95,15 +95,6 @@ End-to-end phishing classifier comparing Logistic Regression vs. Random Forest �
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hemarshini&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemarshini&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm always happy to talk about RAG architecture, model evaluation tradeoffs, deployment decisions, or anything in between.
