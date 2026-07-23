@@ -55,7 +55,7 @@ I'm currently looking for full-time opportunities as an **AI/ML Engineer, Genera
 `MongoDB` `SQL` `Aggregation Pipelines` `Data Modeling`
 
 **Deployment & Tools**
-`Flask` `Flask-SocketIO` `Streamlit` `Gradio` `Hugging Face Spaces` `Git/GitHub`
+`Flask` `Flask-SocketIO` `Streamlit` `Gradio` `Hugging Face Spaces` `Docker` `CI/CD (GitHub Actions)` `Git/GitHub`
 
 **Automation**
 `UiPath (RPA)`
@@ -72,12 +72,12 @@ Multi-modal Flask application that evaluates mock interviews across NLP answer q
 🔗 [Demo Video](https://vimeo.com/1210984282)
 
 #### 🩺 [AI-Powered Healthcare Chatbot (RAG)](https://github.com/Hemarshini/AI-Powered-Healthcare-Chatbot)
-Retrieval-Augmented Generation chatbot grounded entirely in a curated 129-entry medical knowledge base — built specifically to avoid LLM hallucination in a healthcare context. Features a two-tier domain check that distinguishes "off-topic" from "legitimate but uncovered" questions, with thresholds tuned empirically rather than guessed.
+Retrieval-Augmented Generation chatbot grounded entirely in a curated 129-entry medical knowledge base — built specifically to avoid LLM hallucination in a healthcare context. Features a two-tier domain check that distinguishes "off-topic" from "legitimate but uncovered" questions, with thresholds tuned empirically rather than guessed.Containerized with Docker; CI validates the retrieval layer — embeddings and FAISS index — on every commit.
 **Perfect precision/recall on a 41-query labeled test set · Dual-LLM backend (Llama 3.2 / TinyLlama) · Deployed on free CPU tier**
 🔗 [Live Demo](https://huggingface.co/spaces/Hemarshini/healthcare-chatbot-rag)
 
 #### 🛡️ [Phishing Email Detection using NLP & ML](https://github.com/Hemarshini/Phishing-Email-Detection-using-NLP-and-Machine-Learning)
-End-to-end phishing classifier comparing Logistic Regression vs. Random Forest — optimized for **false-positive rate**, not just accuracy, since a false positive in a spam filter breaks user trust faster than a missed detection. Added a rule-based URL heuristic layer to catch phishing emails that use calm, professional wording with no lexical red flags.
+End-to-end phishing classifier comparing Logistic Regression vs. Random Forest — optimized for **false-positive rate**, not just accuracy, since a false positive in a spam filter breaks user trust faster than a missed detection. Added a rule-based URL heuristic layer to catch phishing emails that use calm, professional wording with no lexical red flags.Containerized with Docker; CI automatically runs model-validation tests before any build is allowed to pass.
 **97.2% accuracy · 56% fewer false positives than baseline · Deployed on Hugging Face Spaces**
 🔗 [Live Demo](https://huggingface.co/spaces/Hemarshini/phishing-email-detector)
 
